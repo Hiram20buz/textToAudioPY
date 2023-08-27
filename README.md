@@ -15,6 +15,6 @@ pip install playsound
 
 pip install pydub
 
-# MAC
+# MAC (install this one if you are using mac)
 pip3 install PyObjC
 
