@@ -8,6 +8,8 @@ https://bobbyhadz.com/blog/python-note-this-error-originates-from-subprocess
 
 https://github.com/x4nth055/pythoncode-tutorials/tree/master
 
+https://thepythoncode.com/article/text-summarization-using-huggingface-transformers-python
+
 # ALL platforms 
 pip install gtts
 
