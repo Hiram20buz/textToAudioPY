@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 gtts = "^2.5.0"
+playsound = {git = "https://github.com/taconi/playsound"}
+pyobjc = "^10.1"
+pydub = "^0.25.1"
 
 
 [build-system]
