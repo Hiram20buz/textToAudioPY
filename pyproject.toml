@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "texttoaudiopy"
+version = "0.1.0"
+description = ""
+authors = ["Hiram20buz"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+gtts = "^2.5.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
