@@ -1,6 +1,7 @@
 from gtts import gTTS
 from playsound import playsound
 
+
 def text_to_speech(text):
     tts = gTTS(text)
     tts.save("output.mp3")  # Save the speech to a file
